@@ -64,20 +64,20 @@ self.__precacheManifest = [
     "url": "/everythingtrx/static/media/ChronicleTextG2-Semi.4d1beb84.woff"
   },
   {
-    "revision": "4c13a4bde47f0b6a41cfca220ac2246e",
-    "url": "/everythingtrx/static/media/MaisonNeue-Book.4c13a4bd.ttf"
-  },
-  {
     "revision": "30ddd41540e51afcdbaa361b1bc5a52a",
     "url": "/everythingtrx/static/media/MaisonNeue-Bold.30ddd415.ttf"
   },
   {
-    "revision": "920424965a05505d4a239dfa2c241d0d",
-    "url": "/everythingtrx/static/media/ChronicleTextG2-Semi.92042496.ttf"
+    "revision": "4c13a4bde47f0b6a41cfca220ac2246e",
+    "url": "/everythingtrx/static/media/MaisonNeue-Book.4c13a4bd.ttf"
   },
   {
     "revision": "7e9890b207edef882f8e4d7b22e807e6",
     "url": "/everythingtrx/static/media/ChronicleTextG2-Roman.7e9890b2.ttf"
+  },
+  {
+    "revision": "920424965a05505d4a239dfa2c241d0d",
+    "url": "/everythingtrx/static/media/ChronicleTextG2-Semi.92042496.ttf"
   },
   {
     "revision": "383903bcd4d48a117af73cb5b620755f",
